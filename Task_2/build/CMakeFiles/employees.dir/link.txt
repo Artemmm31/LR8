@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/employees.dir/main.cpp.o -o employees  /usr/lib/x86_64-linux-gnu/libcurl.so 
